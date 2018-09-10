@@ -1,0 +1,40 @@
+# 链接
+- 外部链接  
+    - 语法：\[链接名称](URL)
+    - 例子：*\[百度首页](https://www.baidu.com)*  效果：[百度首页](https://www.baidu.com)
+
+- 内部链接
+    - 语法：\[链接名称](本地路径)
+    - 同仓库另一md文档：*\[demo](demo.md)*  效果：[同仓库的demo1.md](demo1.md)
+    - 同md文档其他标题：*\[跳转本文其他部分](demo.md#标题)*  效果：[跳转代码块](demo2.md#代码块)
+    
+- 引用式链接
+    - 语法：在文档内部定义，直接引用。
+    - 引用链接方式：[baidu]
+
+# 图片
+## 外部图片引用
+- 语法：![图片异常提示文字] (URL "txt")
+- 例子：  ![意外情况] (https://www.baidu.com/img/xinshouye2_d798324c6d1671615e01e55d921c76e0.png "教师节快乐")
+      
+      
+  ![意外情况](https://www.baidu.com/img/xinshouye2_d798324c6d1671615e01e55d921c76e0.png "教师节快乐")
+  
+## 本仓库图片引用
+- 语法：![图片异常提示文字] (本地图片路径 "txt")
+- 例子：  ![意外情况] ( "教师节快乐")
+      
+      
+  ![意外情况](https://www.baidu.com/img/xinshouye2_d798324c6d1671615e01e55d921c76e0.png "教师节快乐")
+  
+
+
+# 引文
+
+# 代码块
+
+
+
+
+<!-----以下是引用链接定义-->
+[baidu]: https://www.baidu.com
