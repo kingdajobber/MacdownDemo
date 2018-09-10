@@ -5,7 +5,7 @@
 
 - 内部链接
     - 语法：\[链接名称](本地路径)
-    - 同仓库另一md文档：*\[demo1](demo.md)*  效果：[demo1](demo.md)
+    - 同仓库另一md文档：*\[demo](demo.md)*  效果：[demo1](demo1.md)
     - 同md文档其他标题：*\[跳转代码块]()*  效果：[demo1](demo.md)
 
 # 图片
